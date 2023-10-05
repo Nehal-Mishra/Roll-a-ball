@@ -33,7 +33,11 @@ To play the game, follow these steps:
 The project is organized into the following directories:
 
 - `Assets`: Contains all game assets, including scripts, models, and textures.
-- `Scenes`: Contains the main game scene.
+- `Library`: Unity's auto-generated folder for storing imported assets and metadata.
+- `Logs`: Logs and debug information.
+- `Packages`: Unity's package manager folder for storing installed packages.
+- `Project Settings`: Contains project-specific settings and configurations.
+- `User Settings`: Contains user-specific settings for the Unity project.
 
 ## Features
 - Basic player movement and physics interactions.
